@@ -1,3 +1,0 @@
-﻿<Startup>
-   <Task commandLine="enable32bit.cmd" executionContext="elevated" taskType="simple" />
-</Startup>
