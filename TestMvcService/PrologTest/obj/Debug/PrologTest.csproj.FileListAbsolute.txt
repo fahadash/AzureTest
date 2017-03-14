@@ -1,0 +1,5 @@
+C:\Dev\temp\TestMvcService\PrologTest\bin\Debug\PrologTest.dll
+C:\Dev\temp\TestMvcService\PrologTest\bin\Debug\PrologTest.pdb
+C:\Dev\temp\TestMvcService\PrologTest\bin\Debug\amzinet.dll
+C:\Dev\temp\TestMvcService\PrologTest\obj\Debug\PrologTest.dll
+C:\Dev\temp\TestMvcService\PrologTest\obj\Debug\PrologTest.pdb
