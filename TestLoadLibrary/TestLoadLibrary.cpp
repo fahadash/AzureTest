@@ -42,8 +42,13 @@ int main(int argc, char *argv[])
 
 	cout << fin;
 
-	ofstream f("LoadLibraryOutput.txt");
-	f << fin;
+	if (argc > 2)
+	{
+		ofstream f(argv[2]);
+		f << fin;
+		f.flush();
+		f.close();
+	}
     return 0;
 }
 

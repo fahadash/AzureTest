@@ -1,0 +1,3 @@
+Loading library 00660F28...
+Failed to load library
+GetLastError() Returns: 0
